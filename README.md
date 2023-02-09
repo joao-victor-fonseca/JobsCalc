@@ -2,21 +2,14 @@
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
 </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
-</p>
+## Description
 
-## 🚀 Tecnologias
+JobsCalc is a calculated estimate application for freelance projects, where it is possible to register and delete jobs (projects), obtaining a cost estimate for each job. In addition, it is possible to trace the hourly rate of the person who will be using the system 💰
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Stack and tools
 
 - HTML
 - CSS
@@ -26,7 +19,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
-## 💻 Projeto
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+## 🔖 Layout
+Veja o layout do projeto original através do figma abaixo:
+- [Layout Web](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning-%2301?node-id=1%3A2&t=C5vGUrzBoMgNNAhq-0)
+
+### Autor
+
+
+<a href="https://github.com/account" align="center" >
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca" />
+ <br />
+ <sub><b>João Victor Fonseca</b></sub></a> <a href="https://github.com/joao-victor-fonseca" title="perfil">🚀
+ </a>
+
+
+Feito com ❤️ por João Victor Fonseca Assis 👋🏽 Entre em contato!
 
